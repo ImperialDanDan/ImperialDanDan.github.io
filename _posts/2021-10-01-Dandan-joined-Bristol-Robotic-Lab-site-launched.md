@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dandan Zhang joined Bristol Robotic Lab"
+title: "Dandan joined Bristol Robotic Lab"
 date: 2021-10-01
 ---
 
